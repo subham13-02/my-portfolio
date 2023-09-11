@@ -87,7 +87,7 @@ const skills = [
 const dataportfolio = [{
         img: ShoppingApp,
         description: "E-commerce web app: Simplifies online shopping with product listings, secure payments and personalized recommendations for buyers and sellers.",
-        link: "https://subham13-02.github.io/Shopping-Cart/",
+        link: "https://subham13-02.github.io/Shopping-Application/",
     },
     {
         img: BlinkIt,
