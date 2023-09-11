@@ -107,7 +107,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "sahu21019@gail.com",
+    YOUR_EMAIL: "sahu21019@gmail.com",
     YOUR_FONE: "+91-7735 561 901",
     description: "",  
     YOUR_SERVICE_ID: "service_e28uez6",
